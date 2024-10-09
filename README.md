@@ -37,4 +37,4 @@ Want to see an example? Check out a simple base project implementing user and ad
   - **Hardened Security** - Using cryptographically secure hashes, random tokens and secure cookie handing.
   - **Developer support** - Need help? Just drop a line in the chat and get help from the creator in no time.
 
- 
+ Rahaf
